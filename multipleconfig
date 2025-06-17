@@ -1,0 +1,7 @@
+# Create different configs
+cp ~/.config/cfetch/config ~/.config/cfetch/config.minimal
+cp ~/.config/cfetch/config ~/.config/cfetch/config.full
+
+# Switch between them
+cp ~/.config/cfetch/config.minimal ~/.config/cfetch/config
+cfetch
