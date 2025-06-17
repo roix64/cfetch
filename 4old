@@ -1,0 +1,3 @@
+show_packages=0    # Package counting can be slow
+show_gpu=0         # GPU detection can be slow  
+show_resolution=0  # Resolution detection can be slow
