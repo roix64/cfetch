@@ -1,0 +1,14 @@
+show_os=1
+show_uptime=1
+show_memory=1
+show_packages=0
+show_shell=0
+show_terminal=0
+show_wm=0
+show_cpu=0
+show_gpu=0
+show_disk=0
+show_resolution=0
+show_colors=0
+ascii_file=auto
+color_scheme=cyan
